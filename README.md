@@ -151,5 +151,4 @@ export default MyComponent;
 
 ```
 
-# 💖✨ 
-### And that's it! You have successfully updated your manifest.json file with the details provided. You can use this package to easily update your manifest.json file and customize your PWA experience.
+And that's it! You have successfully updated your manifest.json file with the details provided. You can use this package to easily update your manifest.json file and customize your PWA experience.
